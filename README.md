@@ -49,3 +49,13 @@ uvicorn main:app --reload
 ```
 By default, the API will run at:
 📍 http://localhost:8000
+
+# 🛡 Disclaimer
+
+This tool is provided for educational purposes only. Ensure that you have permission to scrape data from any third-party site.
+
+## 🧑‍💻 Author
+
+Kresswell-> [Telegram](https://t.me/cliticaldamage)
+
+Want to collaborate or improve this? Open an issue or PR!
